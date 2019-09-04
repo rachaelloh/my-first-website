@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    background-color: navy;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+nav li {
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: maroon;
+}
